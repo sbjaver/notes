@@ -57,7 +57,6 @@ https://web.stanford.edu/~boyd/papers/pdf/rmvbBookChapter.pdf
 Neural Discrete Representation Learning
 https://arxiv.org/pdf/1711.00937.pdf
 
-
 Perceiver: General Perception with Iterative Attention
 https://arxiv.org/pdf/2103.03206v2.pdf
 
@@ -96,3 +95,5 @@ https://fishbowl.pastiche.org/2004/03/21/charles_rules_of_argument/
 Chapter 3 - Storage and Retrieval
 https://timilearning.com/posts/ddia/part-one/chapter-3/
 
+In Search of an Understandable Consensus Algorithm
+https://raft.github.io/raft.pdf
